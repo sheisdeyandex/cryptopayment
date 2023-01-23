@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765297450982",
+    "project_id": "crypto-4cd58",
+    "storage_bucket": "crypto-4cd58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765297450982:android:4604250c0d544ba97c8027",
+        "android_client_info": {
+          "package_name": "com.crypto.payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765297450982-mlr2a81h7950oktv90o8qn82q1r7tv7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP4on8jw4n7aSUyWF0YJNBJNAVA5W1X0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765297450982-mlr2a81h7950oktv90o8qn82q1r7tv7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

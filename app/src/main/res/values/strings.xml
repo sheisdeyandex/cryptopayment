@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Оплата криптой</string>
+    <string name="commission">Commission</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Id</string>
+    <string name="set_id">Set id</string>
+    <string name="success">Success</string>
+    <string name="history">History</string>
+    <string name="tips">Tips:</string>
+</resources>
